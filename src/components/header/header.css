@@ -1,0 +1,20 @@
+#headerDiv {
+    width: 95%;
+    height: 100px;
+    border: 2px rgb(179, 179, 179) solid;
+    background-color: rgb(228, 225, 225);
+    
+}
+
+#headerDiv h1 {
+    position: relative;
+    left: 5%;
+    top: 5%;
+}
+
+#headerDiv nav {
+    position: relative;
+    font-size: 18pt;
+   padding-left: 93%;
+   bottom: 45%;
+}
