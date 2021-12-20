@@ -1,5 +1,5 @@
 let initialState = {
-    categories: ['Food', 'ELECTRONICS', 'CONSOL', 'PHONE', 'GAMES'],
+    categories: ['FOOD', 'ELECTRONICS', 'CONSOL', 'PHONE', 'GAMES'],
     Active : 'FOOD'
   }; 
  
