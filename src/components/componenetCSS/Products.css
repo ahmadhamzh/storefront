@@ -1,0 +1,8 @@
+.productsCard {
+    display: inline-block;
+    margin-left: 15%;
+    
+}
+.productsCard CardMedia{
+    width: 150px;
+}
